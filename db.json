@@ -1,0 +1,23 @@
+{
+  "products" :
+  [{"id":1,"name":"Reindeer","category":"Purple"},
+{"id":2,"name":"Worm snake (unidentified)","category":"Mauv"},
+{"id":3,"name":"Gulls (unidentified)","category":"Puce"},
+{"id":4,"name":"Sidewinder","category":"Teal"},
+{"id":5,"name":"Hanuman langur","category":"Teal"},
+{"id":6,"name":"Baboon, yellow","category":"Indigo"},
+{"id":7,"name":"Northern fur seal","category":"Indigo"},
+{"id":8,"name":"Quail, gambel's","category":"Purple"},
+{"id":9,"name":"White-winged dove","category":"Orange"},
+{"id":10,"name":"Asian lion","category":"Purple"},
+{"id":11,"name":"Tortoise, asian foreset","category":"Green"},
+{"id":12,"name":"Catfish, blue","category":"Purple"},
+{"id":13,"name":"Bear, grizzly","category":"Yellow"},
+{"id":14,"name":"Lemur, lesser mouse","category":"Puce"},
+{"id":15,"name":"Deer, swamp","category":"Red"},
+{"id":16,"name":"Tinamou, elegant crested","category":"Purple"},
+{"id":17,"name":"Common eland","category":"Maroon"},
+{"id":18,"name":"King cormorant","category":"Green"},
+{"id":19,"name":"Blue and gold macaw","category":"Turquoise"},
+{"id":20,"name":"Kafue flats lechwe","category":"Violet"}]
+}
